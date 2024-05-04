@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color:#e2e2dffb ;
+}
+
+input, button{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #ffff;
+}
+
+input:focus{
+    outline: none;
+    border-color: #296e45;
+}
+
+button{
+    background-color: #296e45;
+    color: #fff;
+    cursor:pointer;
+}
+
+button:hover{
+    background-color: #000000;
+}
